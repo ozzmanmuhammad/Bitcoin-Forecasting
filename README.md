@@ -34,7 +34,10 @@ We run a series of modelling experiments to determine the best performing model 
 9. Future prediction model for Bitcoin prices
 10. Dense model with turkey 🦃 data introduced
 
+
 Each model is evaluated based on its performance in predicting future Bitcoin prices.
+
+![download](https://github.com/ozzmanmuhammad/Bitcoin-Forecasting/assets/93766242/e3838ed0-9e36-4b82-9d68-589456c73c85)
 
 ## How to Use the Notebook
 
